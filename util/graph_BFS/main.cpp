@@ -63,7 +63,7 @@ int main(int args, char **argv)
         }
     }
 
-    // single-threaded version for testing
+    /* single-threaded version for testing */
 
     // std::vector<long> levels(ginst->vert_count, -1);
     // std::queue<long> work_queue;
